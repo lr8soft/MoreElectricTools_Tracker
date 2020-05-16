@@ -9,7 +9,7 @@ Why the game crashed after adding METS?
 Make sure that your IC2 version is 2-2.8.188-ex112 or between 2.8.194 and 2.8.199.  
 
 Will METS support lower / higher versions of Minecraft?  
-If IC2 releases a version supporting Minecraft in the future, METS will follow up.  
+If IC2 releases a version supporting higher version of Minecraft in the future, METS will follow up.  
 
 For more questions about IC2 addons, please check about:  
 https://forum.industrial-craft.net/board/56-addons/
